@@ -2,7 +2,8 @@
 
 ## Introduction
 
-In an ever-evolving world, analyzing crime data is crucial for understanding public safety dynamics. This project presents a comprehensive analysis of real-world crime data from 2020 to the present, uncovering patterns, trends, and factors contributing to crime rates. This analysis benefits law enforcement, policymakers, community leaders, and citizens by providing insights that inform crime prevention strategies, resource allocation, and safer community promotion.
+In an ever-evolving world, analyzing crime data is crucial for understanding public safety dynamics. This project presents a comprehensive analysis of real-world crime data from 2020 to the present, uncovering patterns, trends, and factors contributing to crime rates. This analysis benefits law enforcement, policymakers, community leaders, and citizens by providing insights that inform crime prevention strategies, resource allocation, and safer community promotion. You can download the dataset used in this project from <a href="https://catalog.data.gov/dataset/crime-data-from-2020-to-present">Crime Data from 2020 to Present</a>.
+
 
 ## Data Cleaning
 

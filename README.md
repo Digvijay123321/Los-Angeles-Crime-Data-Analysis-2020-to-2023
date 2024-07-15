@@ -7,7 +7,7 @@ In an ever-evolving world, analyzing crime data is crucial for understanding pub
 
 ## Data Cleaning
 
-Our dataset, representing crimes in Los Angeles from 2020 to October 2023, required extensive cleaning. We addressed missing values, standardized time formats, consolidated crime codes, and created meaningful addresses. We also filled gaps in victim age, premis code, and premis description columns with appropriate values. The cleaned data allowed for thorough analysis and visualization of crime trends.
+This dataset, representing crimes in Los Angeles from 2020 to October 2023, requires extensive cleaning. We address missing values, standardize time formats, consolidate crime codes, and create meaningful addresses. We also fill gaps in the victim age, premise code, and premise description columns with appropriate values. The cleaned data allows for thorough analysis and visualization of crime trends.
 
 ## Results and Findings
 
@@ -21,7 +21,7 @@ Our dataset, representing crimes in Los Angeles from 2020 to October 2023, requi
 
 ## Predictive Analysis
 
-Using the ARIMA model from `statsmodels`, we forecasted future crime rates based on historical data. The model was trained on crime counts per day, and a forecast was generated for the next 90 days. This forecasting helps in understanding potential trends and aids in proactive decision-making for law enforcement and policymakers.
+Using the ARIMA model from statsmodels, we forecast future crime rates based on historical data. The model is trained on crime counts per day, and a forecast is generated for the next 90 days. This forecasting helps in understanding potential trends and aids in proactive decision-making for law enforcement and policymakers.
 
 ```python
 from statsmodels.tsa.arima.model import ARIMA
